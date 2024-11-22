@@ -1,0 +1,18 @@
+{
+  "name": "hanzi-integrate-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "hanzi": "^2.1.5",
+    "hanzi-writer": "^3.7.2",
+    "pinyin": "^4.0.0-alpha.2"
+  }
+}
